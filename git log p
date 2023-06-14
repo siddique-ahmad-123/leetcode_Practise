@@ -1,0 +1,107 @@
+[33mcommit 30536c72b5f4abf388e22e769cb9a12fdcdde55f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Tue Jun 13 16:35:37 2023 +0530
+
+    maxmareaofcake
+
+[33mcommit 4e2d2b8c7a37ec53398a20e735aabc8e09464ec9[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Mon Jun 12 16:57:07 2023 +0530
+
+    jumpgame
+
+[33mcommit c4f8aed97ea58df52d1808a95cbf3362670aa850[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Mon Jun 12 11:52:18 2023 +0530
+
+    combination_sum
+
+[33mcommit e8d9ef72523498f511384ea532ae09c5c069413d[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Sun Jun 11 22:30:17 2023 +0530
+
+    asd
+
+[33mcommit fad06be3524d553d44e7a06ce3bdc06864de2377[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Sun Jun 11 16:44:40 2023 +0530
+
+    finding_suplicate
+
+[33mcommit 2504cc830e9528355307d682b4493a04ac2bca21[m
+Merge: 31763cf 8a06751
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Sun Jun 11 16:36:13 2023 +0530
+
+    Merge branch 'master' of https://github.com/siddique-ahmad-123/leetcode_Practise
+
+[33mcommit 31763cf7f5c44663e2e3b8db9270d2b18c93b21c[m
+Merge: e4f7ffd d6e49a2
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Sun Jun 11 16:33:04 2023 +0530
+
+    Merge branch 'master' into newBranch
+
+[33mcommit e4f7ffdbf5fd88a4d3e2a91a607e1d162c455442[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Sun Jun 11 16:32:36 2023 +0530
+
+    4sum
+
+[33mcommit 8a06751cbb920ab116998978f355620e8f8bd713[m
+Merge: d6e49a2 fdbb9fd
+Author: Siddique Ahmad <113046400+siddique-ahmad-123@users.noreply.github.com>
+Date:   Sun Jun 11 08:45:28 2023 +0530
+
+    Merge pull request #1 from siddique-ahmad-123/newBranch
+    
+    pair_of_song
+
+[33mcommit fdbb9fde2f7b9c2b2d3a6819ee1ec31331e7f743[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Sun Jun 11 08:42:27 2023 +0530
+
+    pair_of_song
+
+[33mcommit d6e49a2323ea95502c00cff4d4dfd1555a36e7cd[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Sat Jun 10 22:30:52 2023 +0530
+
+    GameOFLife
+
+[33mcommit 95ed4f2ea4aa98c2589bfa646daf5b477e410967[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Sat Jun 10 07:09:29 2023 +0530
+
+    3sum_closestelement
+
+[33mcommit 48b9df48ba270ffac9888463bf315b52add6a5c0[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Fri Jun 9 10:57:05 2023 +0530
+
+    rotate_image
+
+[33mcommit 4cdbf854068c67dac8f71b24b52eaa8345894b11[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Fri Jun 9 07:55:58 2023 +0530
+
+    Max_WaterinAcontainer
+
+[33mcommit 7e57d5910a122fb1f2a950f1bae74f34a4229d27[m
+Merge: 209575d 499bb79
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Thu Jun 8 18:29:52 2023 +0530
+
+    Merge branch 'newBranch'
+
+[33mcommit 209575dad1d6b0bb9b5645480dde39e551326470[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Thu Jun 8 18:29:23 2023 +0530
+
+    Spiral_Matrix
+
+[33mcommit 9a0d694f9af0744d252b7133f7203787329035d8[m
+Author: Siddique Ahmad <ahmadsiddique7073@gmail.com>
+Date:   Thu Jun 8 12:45:08 2023 +0530
+
+    Next_Permutation
